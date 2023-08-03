@@ -28,7 +28,7 @@
   <remove-project name="device/linaro/poplar-kernel" />
   <remove-project name="device/qcom/common" />
   <remove-project name="device/qcom/qssi" />
-  <remove-project name="kernel/msm-4.4" />
+  <remove-project name="kernel/msm-4.19" />
   <remove-project name="kernel/prebuilts/4.19/arm64" />
   <remove-project name="kernel/tests" />
   <remove-project name="platform/external/nos/host/generic" />
@@ -64,7 +64,7 @@
   <!-- JUST CAF ADDITIONS -->
   <remove-project name="device/qcom/sepolicy" />
 <!--  <remove-project name="platform/bootable/recovery" />-->
-  <remove-project name="platform/build" />
+  <remove-project name="platform/build_repo" />
   <remove-project name="platform/build/soong" />
   <remove-project name="platform/hardware/qcom/audio" />
   <remove-project name="platform/hardware/qcom/display" />
